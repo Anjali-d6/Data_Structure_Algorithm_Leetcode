@@ -1,0 +1,7 @@
+dry run 
+Enter number of customers: 2
+Enter number of banks: 2
+Enter the wealth of each customer:
+2 7
+7 8
+Richest customer wealth: 15
