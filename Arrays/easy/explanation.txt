@@ -1,0 +1,21 @@
+nums  = [3,7,8,9]
+target = 12
+
+i=0
+need = target - nums
+need = 12-3 = 9 
+9 is not in seen, so store the 
+current number 3 with index 0.
+seen = {3: 0}
+i = 1
+need = 12-7 = 5 
+5 is not in seen, so store 7 with index 1.
+seen = {3: 0, 7: 1}
+i = 2
+need = 12 - 8 = 4
+4 is not in seen, so store 8 with index 2.
+seen = {3: 0, 7: 1, 8: 2}
+i = 3
+need = 12-9 = 3
+3 is seen so 
+result is [0,3]

@@ -1,9 +1,9 @@
-m = int(input("Enter number of customers: "))
-n = int(input("Enter number of banks: "))
+m = int(input("enter number of customers: "))
+n = int(input("enter number of banks: "))
 
 accounts = []
 
-print("Enter the wealth of each customer:")
+print("enter the wealth of each customer:")
 
 for i in range(m):
     row = list(map(int, input().split()))

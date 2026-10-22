@@ -1,0 +1,6 @@
+Enter number of strings: 3    
+Enter string: power
+Enter string: powder
+Enter string: powse
+Longest Common Prefix: pow
+
